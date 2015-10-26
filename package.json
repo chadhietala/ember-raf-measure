@@ -42,7 +42,8 @@
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.3"
+    "ember-cli-babel": "^5.1.3",
+    "raf-measure": "0.0.6"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
