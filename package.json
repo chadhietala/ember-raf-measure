@@ -1,6 +1,6 @@
 {
   "name": "ember-raf-measure",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -43,7 +43,7 @@
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.3",
-    "raf-measure": "0.0.6"
+    "raf-measure": "0.0.7"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
