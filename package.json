@@ -1,6 +1,6 @@
 {
   "name": "ember-raf-measure",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -36,7 +36,6 @@
     "ember-resolver": "^2.0.3",
     "ember-disable-prototype-extensions": "^1.1.0",
     "ember-load-initializers": "^0.5.1",
-    "ember-resolver": "^2.0.3",
     "loader.js": "^4.0.10"
   },
   "keywords": [
