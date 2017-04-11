@@ -1,6 +1,6 @@
 {
   "name": "ember-raf-measure",
-  "version": "0.0.10",
+  "version": "0.0.12",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
