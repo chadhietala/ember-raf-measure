@@ -17,6 +17,9 @@
   },
   "author": "",
   "license": "MIT",
+  "bundledDependencies": [
+    "raf-measure"
+  ],
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.2",
     "ember-ajax": "^2.0.1",
