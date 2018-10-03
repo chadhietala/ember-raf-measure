@@ -45,7 +45,7 @@
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.6",
+    "ember-cli-babel": "^6.8.2",
     "raf-measure": "0.0.11"
   },
   "ember-addon": {
